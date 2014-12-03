@@ -1,5 +1,17 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:300);
 
+A.class1 {color: #ffffff;}
+A.class1:link  {text-decoration: none; color: #ffffff;}
+A.class1:visited {text-decoration: none; color: #ffffff;}
+A.class1:hover {text-decoration: none; color: #ffffff;}
+A.class1:active {text-decoration: none; color: #ffffff;}
+
+
+A.class2 {color: #000000;}
+A.class2:link {text-decoration: none; color: #000000;}
+A.class2:visited {text-decoration: none; color: #000000;}
+A.class2:hover {text-decoration: underline; color: #000000;}
+A.class2:active {text-decoration: underline; color: #000000;}
 
 header {
         font-family: 'Josefin Sans', sans-serif;    
@@ -19,14 +31,18 @@ nav {
         text-align: center;  
         word-spacing: 35px;
         background-color: #222222;
+        color: #FFFFFF;
+        text-decoration: none;
         
 }
+
 
 body {
         font-family: 'Roboto', sans-serif;
         max-width: 700px;
         margin: 0 auto 0 auto;
         text-align: center;
+        text-decoration-color: #000000;
     
 }
 
@@ -39,16 +55,3 @@ footer {
         background-color: #222222;
         color: #FFFFFF;
 }
-
-a:link {
-    color: #FFFFFF;
-}
-
-a:visited {
-    color: #FFFFFF;
-}
-
-a:link {
-    text-decoration: none;
-}
-
