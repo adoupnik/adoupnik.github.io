@@ -53,8 +53,20 @@ body {
     
 }
 
+
+photo {
+    width:270px;
+    height:auto;
+    padding:1%;
+    float:left;
+}
+
+h1{margin:0}
+.left {float:left;}
+.right {float:left;}
+
 img {
-        width: 40%;
+        width: 100%;
     
 }
 
