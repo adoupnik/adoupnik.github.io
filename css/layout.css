@@ -44,6 +44,11 @@ nav {
         
 }
 
+img {
+        width: 100%;
+    
+}
+
 body {
         font-family: 'Roboto', sans-serif;
         max-width: 700px;
@@ -65,10 +70,6 @@ h1{margin:0}
 .left {float:left;}
 .right {float:left;}
 
-img {
-        width: 100%;
-    
-}
 
 footer {
         background-color: #222222;
