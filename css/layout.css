@@ -22,19 +22,12 @@ body {
         margin: 10 auto 10 auto;
         text-align: center;
         text-decoration-color: #000000;
-<<<<<<< HEAD
         margin-left: auto;
         margin-right: auto;
-=======
-        margin-left: auto ;
-        margin-right: auto ;
->>>>>>> origin/master
-    
 }
 
 article {
         max-width: none
-<<<<<<< HEAD
 }
 
 a {
@@ -51,6 +44,4 @@ a:visited {
 
 a:hover {
     text-decoration: underline;
-=======
->>>>>>> origin/master
 }
